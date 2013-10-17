@@ -14,6 +14,7 @@ end
 
 group :product do 
 	gem 'pg'
+end
 
 
 # Gems used only for assets and not required
